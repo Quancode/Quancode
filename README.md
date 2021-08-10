@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quancode
 
-- 🌱 I’m currently learning frontend web developing. #HTML, #CSS and #Javascript. Check out what I've made!  
+- 🌱 I’m currently learning frontend web developing: #HTML, #CSS and #JS. Check out what I've made!  
 
 
 <!---
